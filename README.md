@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Samuel-Tham65
-- 👀 I’m interested in coding and learning more about programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on coding projects in the future when i'm more proficient
+- 👋 Hi, I’m @Samuel-Tham65 but you can call me Sam.
+- 👀 I’m interested in coding and learning more about programming as well as gaming
+- 🌱 I’m currently learning C++, drawing, 3d modeling, writting a propper GDD
+- 💞️ I’m to be the best game developer i can be
 - 📫 How to reach me: samueltham2005@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i got into this whole programming mindset by accident
