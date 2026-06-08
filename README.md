@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel-Tham65 but you can call me Sam.
-- 👀 I’m interested in coding and learning more about programming as well as gaming
-- 🌱 I’m currently learning C++, drawing, 3d modeling, writting a propper GDD
+- 👀 I’m interested in coding and learning more about programming as well as gaming and 3d modeling
+- 🌱 I’m currently learning C#,unity engine, the process of creating a game
 - 💞️ I want to be the best game developer i can be
 - 📫 How to reach me: samueltham2005@gmail.com
 - 😄 Pronouns: He/him
